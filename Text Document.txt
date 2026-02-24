@@ -1,3 +1,0 @@
-dotnet publish "d:\Vscode\insurgency-scripting\ac_screenshot\client_cs\ACScreenshotClient.csproj" -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true
-
-powershell -ExecutionPolicy Bypass -File "d:\Vscode\insurgency-scripting\sign.ps1"
