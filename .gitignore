@@ -1,0 +1,16 @@
+# Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+
+# IDE / editor
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Update temp files (client creates these at runtime)
+*.update
+*.bak
